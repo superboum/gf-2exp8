@@ -1,0 +1,18 @@
+{
+  "name": "gf-2exp8",
+  "version": "0.0.1",
+  "description": "Javscript implementaion of Finite Field GF(2^8)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "author": "victor (weikai)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
