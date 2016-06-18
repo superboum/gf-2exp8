@@ -2,6 +2,10 @@
   "name": "gf-2exp8",
   "version": "0.0.1",
   "description": "Javscript implementaion of Finite Field GF(2^8)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xwk/gf-2exp8"
+  },
   "main": "index.js",
   "directories": {
     "test": "test"
